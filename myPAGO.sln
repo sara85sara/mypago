@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myPAGO", "myPAGO\myPAGO.csproj", "{DE64C657-1BD3-4D05-B6FB-F109BA2DD3A2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "myPAGOapi", "myPAGOapi\myPAGOapi.csproj", "{8203FDA0-ACE8-4E09-8CD2-EA0DB7B6ACF6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DE64C657-1BD3-4D05-B6FB-F109BA2DD3A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE64C657-1BD3-4D05-B6FB-F109BA2DD3A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE64C657-1BD3-4D05-B6FB-F109BA2DD3A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE64C657-1BD3-4D05-B6FB-F109BA2DD3A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8203FDA0-ACE8-4E09-8CD2-EA0DB7B6ACF6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8203FDA0-ACE8-4E09-8CD2-EA0DB7B6ACF6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8203FDA0-ACE8-4E09-8CD2-EA0DB7B6ACF6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8203FDA0-ACE8-4E09-8CD2-EA0DB7B6ACF6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
